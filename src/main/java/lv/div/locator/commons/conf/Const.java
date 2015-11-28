@@ -8,6 +8,8 @@ public class Const {
     public static final String WIFI_VALUES_SEPARATOR = ";;";
     public static final String WIFI_NAME_SEPARATOR = "::";
     public static final String DEVICE_ID_HTTP_PARAMETER = "device";
+    public static final String DEVICE_ALIAS_HTTP_PARAMETER = "deviceAlias";
+
     public static final String TEXT_OUTPUT_HTTP_PARAMETER = "text";
     public static final String DEFAULT_SERVLET_ANSWER = "OK";
 
@@ -35,6 +37,7 @@ public class Const {
     public static final String TRUE_FLAG = "1";
     public static final String ZERO_COORDINATE = "0.0";
 
-    public static final String ZIPPED_LOG_FILE_PARAM = "zippedlogfile";
+    public static final String ZIPPED_LOG_FILENAME_PARAM = "zlfilename";
+    public static final String ZIPPED_LOG_FILECONTENT_PARAM = "zlfile";
 
 }
