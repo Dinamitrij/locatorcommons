@@ -22,6 +22,7 @@ public class Const {
     public static final String ACCURACY_FIELD = "field4";
     public static final String SPEED_FIELD = "field7";
     public static final String DEVICEID_FIELD = "field8";
+    public static final String DEVICETIME_FIELD = "field9";
 
     public static final String DEVICE_ID_PARAMETER_NAME = "deviceId";
     public static final String KEY_PARAMETER_NAME = "key";
