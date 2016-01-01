@@ -14,15 +14,16 @@ public class Const {
     public static final String DEFAULT_SERVLET_ANSWER = "OK";
 
     //    Signal receiver:
-    public static final String WIFI_DATA_FIELD = "field3";
-    public static final String GPS_LATITUDE_FIELD = "field1";
-    public static final String GPS_LONGITUDE_FIELD = "field2";
-    public static final String BATTERY_LEVEL_FIELD = "field6";
-    public static final String SAFE_ZONE_FIELD = "field5";
-    public static final String ACCURACY_FIELD = "field4";
-    public static final String SPEED_FIELD = "field7";
-    public static final String DEVICEID_FIELD = "field8";
-    public static final String DEVICETIME_FIELD = "field9";
+    public static final String GPS_LATITUDE_FIELD = "f1";
+    public static final String GPS_LONGITUDE_FIELD = "f2";
+    public static final String WIFI_DATA_FIELD = "f3";
+    public static final String ACCURACY_FIELD = "f4";
+    public static final String SAFE_ZONE_FIELD = "f5";
+    public static final String BATTERY_LEVEL_FIELD = "f6";
+    public static final String SPEED_FIELD = "f7";
+    public static final String DEVICEID_FIELD = "f8";
+    public static final String DEVICETIME_FIELD = "f9";
+    public static final String ACCELEROMETER_FIELD = "f10";
 
     public static final String DEVICE_ID_PARAMETER_NAME = "deviceId";
     public static final String KEY_PARAMETER_NAME = "key";
