@@ -11,6 +11,7 @@ public enum ConfigurationKey {
     IN_SAFE_ZONE("IN_SAFE_ZONE"),
     OUT_OF_SAFE_ZONE("OUT_OF_SAFE_ZONE"),
     OUT_OF_SAFE_ZONE_TIMES("OUT_OF_SAFE_ZONE_POINTS"),
+    MAP_REPORTED("MAP_REPORTED"),
 
     /**
      * Common values for all devices
