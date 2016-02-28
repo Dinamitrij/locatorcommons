@@ -7,6 +7,8 @@ public class Const {
 
     public static final String WIFI_VALUES_SEPARATOR = ";;";
     public static final String WIFI_NAME_SEPARATOR = "::";
+    public static final String COMMA_SEPARATOR = ",";
+    public static final String HASH_SEPARATOR = "#";
     public static final String DEVICE_ID_HTTP_PARAMETER = "device";
     public static final String DEVICE_ALIAS_HTTP_PARAMETER = "deviceAlias";
 
@@ -24,6 +26,7 @@ public class Const {
     public static final String DEVICEID_FIELD = "f8";
     public static final String DEVICETIME_FIELD = "f9";
     public static final String ACCELEROMETER_FIELD = "f10";
+    public static final String MLS_FIELD = "f11";
 
     public static final String DEVICE_ID_PARAMETER_NAME = "deviceId";
     public static final String KEY_PARAMETER_NAME = "key";
