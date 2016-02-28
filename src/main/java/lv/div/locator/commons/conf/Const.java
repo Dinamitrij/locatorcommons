@@ -9,6 +9,7 @@ public class Const {
     public static final String WIFI_NAME_SEPARATOR = "::";
     public static final String COMMA_SEPARATOR = ",";
     public static final String HASH_SEPARATOR = "#";
+
     public static final String DEVICE_ID_HTTP_PARAMETER = "device";
     public static final String DEVICE_ALIAS_HTTP_PARAMETER = "deviceAlias";
 
