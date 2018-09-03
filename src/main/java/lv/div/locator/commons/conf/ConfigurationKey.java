@@ -14,6 +14,7 @@ public enum ConfigurationKey {
     MAP_REPORTED("MAP_REPORTED"),
     MLS_REPORTED("MLS_REPORTED"),
     LAST_REPORTED_GPS_POINT("LAST_REPORTED_GPS_POINT"),
+    DEVICE_SIGNAL("DEVICE_SIGNAL"), //Latest signal, received from device
 
 
     /**
